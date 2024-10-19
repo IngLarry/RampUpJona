@@ -1,0 +1,88 @@
+*
+{
+  box-sizing: border-box;
+}
+
+body
+{
+  margin: 0;
+}
+.nav
+{
+  width: 50%vw;
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.selection
+{
+  width: 100%;
+  height: 20vh;
+  background-color:s darkslategrey;
+  align-content: center;
+}
+.site
+{
+display: flex;
+width: 100%;
+height: 70vh;
+background-color: cadetblue;
+align-items: center;
+justify-content: center;
+
+}
+
+.login
+{
+  border-radius: 10px;
+  display: flex;
+  width: 200px;
+  height: 400px;
+  align-items: center;
+  justify-content: center;
+  background-color: darkslategrey;
+}
+
+.from
+{
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.inputUser
+{
+  margin: 10px;
+  padding: 10px;
+}
+
+.labelma
+{
+  margin: 10px;
+
+}
+.inputPass
+{
+  margin: 10px;
+  padding: 10px;
+}
+
+.registro
+{
+  width: 200px;
+  height: 400px;
+  background-color: darkslategrey;
+  align-content: center;
+  justify-content: center;
+}
+
+.toolbar
+{
+  display: flex;
+  width: 100%;
+  height: 10vh;
+  background-color: darkslategrey;
+  align-items: center;
+}
